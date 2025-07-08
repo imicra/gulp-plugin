@@ -1,6 +1,6 @@
 'use strict';
 
-var pluginname = 'ms-auto';
+var pluginname = 'reklamacenter-xls';
 
 var gulp = require('gulp'),
     plumber = require('gulp-plumber'),
